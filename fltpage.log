@@ -1,0 +1,47 @@
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012/Debian) (format=xelatex 2013.1.31)  31 JAN 2013 16:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**packages/fltpage.sty
+(./packages/fltpage.sty
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, uk
+english, loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `fltpage'.
+
+Package: fltpage 1998/10/29 v.0.3 Floats on full page (SMU)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks14
+\AP@partial=\box26
+\AP@footins=\box27
+)
+\c@FP@figureC=\count80
+\c@FP@tableC=\count81
+\FP=\box28
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \newsavebox{\FP@floatCorpusBOX}
+                                    
+? x
+ 
+Here is how much of TeX's memory you used:
+ 86 strings out of 495694
+ 1189 string characters out of 3188243
+ 45180 words of memory out of 3000000
+ 3323 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 22 hyphenation exceptions out of 8191
+ 12i,0n,12p,147b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

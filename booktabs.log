@@ -1,0 +1,48 @@
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012/Debian) (format=xelatex 2013.1.31)  31 JAN 2013 16:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**packages/booktabs.sty packages/caption.sty packages/fancyhdr.sty packages/flt
+page2.sty packages/fltpage.sty packages/lettrine.sty packages/listings.sty pack
+ages/mathspec.sty packages/natbib.sty packages/rotating.sty packages/setspace.s
+ty packages/subfigure.sty packages/unicode-math.dtx packages/vmargin.sty
+(./packages/booktabs.sty
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, uk
+english, loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `booktabs'.
+
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen102
+\lightrulewidth=\dimen103
+\cmidrulewidth=\dimen104
+\belowrulesep=\dimen105
+\belowbottomsep=\dimen106
+\aboverulesep=\dimen107
+\abovetopsep=\dimen108
+\cmidrulesep=\dimen109
+\cmidrulekern=\dimen110
+\defaultaddspace=\dimen111
+\@=\count80
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \newcount\@c
+                 midla
+? x
+ 
+Here is how much of TeX's memory you used:
+ 18 strings out of 495694
+ 343 string characters out of 3188243
+ 45180 words of memory out of 3000000
+ 3262 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 22 hyphenation exceptions out of 8191
+ 7i,0n,8p,378b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
